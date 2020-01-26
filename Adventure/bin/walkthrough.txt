@@ -1,0 +1,21 @@
+The cheater's way to speedrun:
+
+!!!NOTE: The game is designed to only work in the command-line version, not the GUI!!!
+
+1. get out of the house (visiting the robinsons gives you access to a map, might be useful)
+2. Go east until you reach the crossroads
+ - At this point the player should go first completely east and find a map by the gate, but this is not required
+3. Go south until you find the townhall, there is a key (and goblins) inside
+4. The key fits a gate, which is found when you eastward from the crossroads
+5. Go east until you find the roundabout and after that go west until you find the cabin
+6. Talk to the man in the cabin and say "quest" to receive a quest
+7. Go to the school, third floor, end of the hallway
+8. Talk to the girl
+9. Go back to the cabin
+10. Talk to the man and mention quest at some point, you should get a key
+11. Go back to the school, first floor, room 105, you will find corrosive
+12. Use the corrosive to open the door right beside room 105
+13. Boss battle.
+14. Victory
+
+!!!There is also a hidden room in the 2nd floor of the school, behind a painting!!!
